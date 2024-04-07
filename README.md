@@ -1,4 +1,4 @@
-# JNTUGV-29-ROOOM-MATES
+# JNTUGV-29-ROOOM-MATEs
 <!DOCTYPE html>
 <html lang="en">
 <head>
